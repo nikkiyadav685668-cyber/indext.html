@@ -1,2 +1,2 @@
-# indext.html
+# index.html
 Registration form
